@@ -5,7 +5,7 @@
 local DATA = {}
 
 DATA.SIGNALS = { -- this may not be always used as the signals are controlled via redstone but we could use MCUs for this purpose.
-  ["EXAMPLE-SIGNA-UUID-HERE"] = {
+  ["EXAMPLE-SIGNAL-UUID-HERE"] = {
     GUARDS="BLOCK-ID-HERE", 
     POS={0,0}
   }
