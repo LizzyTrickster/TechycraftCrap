@@ -52,6 +52,17 @@ DATA.BLOCKS = {
     ENTRY_DETECTORS = {"f51ba06a-2070-4e14-b3bc-360501dd110b", "56ab85e3-5b89-4cff-a8ab-8718b1d7c544", "a60d9552-ecef-4a14-864e-aa789103cad6"},
     EXIT_DETECTORS = {"300981e7-34ec-4922-8ae6-7a01154fd6d4", "cf716e07-0601-4db7-8412-744772987e3f", "1f5e788e-7651-4c15-9fa8-a1cf5ecacfb4"},
     INFO = "Cross over before Lizzy's base"
+  },
+  
+  ["MAIN-LIZRD-STATION-N"] = {
+    ENTRY_DETECTORS = {"136bf9f5-e8ab-4d9a-834a-04e2e19dad15"},
+    EXIT_DETECTORS = {"069c492b-8a4d-4ca8-ac84-e17bc75c60ca"},
+    info="meh"    
+  },
+  ["MAIN-LIZRD-STATION-S"] = {
+    ENTRY_DETECTORS = {"300981e7-34ec-4922-8ae6-7a01154fd6d4"},
+    EXIT_DETECTORS = {"8b94e6d9-aac1-451a-ba0c-b5706a38c95a"},
+    INFO="MEH"
   }
 }
 
